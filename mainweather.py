@@ -42,3 +42,5 @@ label2 = tk.Label(canvas, font = f)
 label2.pack()
 
 canvas.mainloop()
+
+print("Change")
